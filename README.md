@@ -1,4 +1,4 @@
-# Bumble
+# bComms | Bumble's Comms System
 
 **Download for Bumble's Comms System (to edit config)**
 
