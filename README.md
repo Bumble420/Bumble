@@ -22,7 +22,7 @@
 
 To install bComms, simply unzip "bumbles-comms-system.zip" using any extractor of your choice (I recommend WinRAR) and place the folder labelled "bcomms-system" into your "garrysmod/addons" folder and restart your server!
 
-The config is located in "garrysmod/addons/bcomms-system/lua/autorun" both files are used for configuration.
+The config is located in "garrysmod/addons/bcomms-system/lua/autorun" edit the "bc_config" file.
 
 
 **If you have any issues, feel free to make a support ticket! If you require further more intricate support contact me on Discord "Bumble#1000"**
